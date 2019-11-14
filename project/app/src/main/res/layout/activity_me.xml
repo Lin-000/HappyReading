@@ -67,7 +67,7 @@
         android:id="@+id/item_four"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:theme="@style/MyCheckBox"
+
         leon:leftIcon="@drawable/logo"
         leon:leftText="待定"
         leon:rightStyle="iconCheck"/>
@@ -77,7 +77,7 @@
         android:id="@+id/item_six"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:theme="@style/MyCheckBox"
+
         leon:leftIcon="@drawable/message"
         leon:rightStyle="iconSwitch"
         leon:leftText="开启消息通知" />

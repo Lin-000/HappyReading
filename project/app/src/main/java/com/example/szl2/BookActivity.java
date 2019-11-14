@@ -56,6 +56,5 @@ public class BookActivity extends AppCompatActivity {
         bookList.add(grape);
         Book pineapple = new Book("书籍相关介绍", R.drawable.pic20);
         bookList.add(pineapple);
-
     }
 }

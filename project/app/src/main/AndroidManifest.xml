@@ -9,11 +9,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".ListActivity" />
-        <activity android:name=".BookActivity" />
+        <activity android:name=".MainActivity" />
         <activity android:name=".meActivity" />
         <activity android:name=".startActivity" />
         <activity android:name=".registerActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".BookActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
